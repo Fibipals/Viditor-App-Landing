@@ -7,7 +7,7 @@
   <h3 align="center">Application Landing</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project with our detailed tutorial on <a href="https://www.youtube.com/@fibipals" target="_blank"><b>Fibipals</b></a> YouTube. Learn, Create, Achive!
     </div>
 </div>
 
