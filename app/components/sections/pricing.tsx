@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import Plan from '../plan'
 import { FaPeopleGroup, FaPerson } from 'react-icons/fa6'
 import { IoBusiness } from 'react-icons/io5'
-import PricingSvg from '../assets/pricing'
+import PricingSvg from '../assets/pricingSvg'
 import { FaRegCircle, FaRegSquare } from 'react-icons/fa'
 import { PiHexagonBold } from 'react-icons/pi'
 
