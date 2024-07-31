@@ -131,9 +131,6 @@ module.exports = {
         '.text-slogan': {
           '@apply text-lime-300 uppercase font-semibold text-sm  tracking-wider': {},
         },
-        '.flex-center':{
-          '@apply flex items-center justify-center': {},
-        },
       };
       addUtilities(newUtilities, ['responsive', 'hover']);
     },
