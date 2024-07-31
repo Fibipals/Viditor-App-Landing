@@ -19,6 +19,7 @@
 4. 🚀 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 📦 [Assets](#assets)
+7. 💡 [Resources](#resources)
 
 ## 📚 Tutorial
 
@@ -196,4 +197,8 @@ export default PricingSvg
 
 ## <a name="assets">📦 Assets</a>
 
-Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
+Public Assets used in the project can be found [here](https://drive.google.com/file/d/1NxH1HInL6KzprzrYy-aP-odQlmFRQlYP/view?usp=sharing)
+
+## <a name="resources">💡 Resources</a>
+
+Check out <a href="https://www.fibipals.com" target="_blank"><b>Fibipals.com</b></a>. Here, you can find components for your site, a cool community, articles, and more.
