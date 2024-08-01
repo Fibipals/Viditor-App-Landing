@@ -36,7 +36,7 @@ module.exports = {
           "@apply text-xs text-slate-600 font-semibold":{},
         },
         '.text-slogan': {
-          '@apply text-lime-300 uppercase font-semibold text-sm  tracking-wider': {},
+          '@apply text-lime-400 uppercase font-semibold text-sm  tracking-wider': {},
         },
         '.flex-center':{
           '@apply flex items-center justify-center': {},

@@ -16,12 +16,12 @@ const Hero = () => {
         </p>
         <Button text="try it now" icon={GoFlame} link="#download"/>
       </div>
-      <div className="w-80 lg:w-96 max-h-[550px] z-10">
+      <div className="w-80 lg:w-96 z-10">
         <Image
           src="/hero.png"
           alt="Big logo image"
           width={350}
-          height={1000}
+          height={500}
         />
       </div>
     </div>

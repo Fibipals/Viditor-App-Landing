@@ -5,7 +5,7 @@ interface BrandCardProps{
 }
 
 const BrandCard = ({path}:BrandCardProps) => (
-  <div className='flex items-center justify-center flex-1 max-w-32 min-w-16 m-4'>
+  <div className='flex items-center justify-center flex-1 min-w-16 m-4'>
     <Image src={path} alt="Brand Logo" width={110} height={20}/>
   </div>
 )

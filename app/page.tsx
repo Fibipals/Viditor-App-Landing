@@ -9,7 +9,7 @@ import Footer from "./components/sections/footer";
 
 export default function Home() {
   return (
-    <div  className="bg-slate-950">
+    <div  className="">
       <div className="w-full mx-auto max-w-[1024px]">
         <Navbar />
         <Hero />

@@ -92,6 +92,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 <summary><code>tailwind.config.js</code></summary>
 
 ```javascript
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
