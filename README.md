@@ -192,6 +192,22 @@ export default PricingSvg
 
 </details>
 
+<details>
+<summary><code>Data</code></summary>
+
+```txt
+/*** Hero section ***/
+
+Effortless Video Creation
+
+Incredibly Simple & Fast
+
+Experience a user-friendly, fast, and efficient video editing tool that's also surprisingly powerful, enabling you to create stunning quickly, without compromising on quality.
+
+
+```
+</details>
+
 
 ## <a name="assets">📦 Assets</a>
 
