@@ -198,12 +198,147 @@ export default PricingSvg
 ```txt
 /*** Hero section ***/
 
-Effortless Video Creation
-
-Incredibly Simple & Fast
-
 Experience a user-friendly, fast, and efficient video editing tool that's also surprisingly powerful, enabling you to create stunning quickly, without compromising on quality.
 
+
+/*** Features section ***/
+
+const featureCards = [
+  {
+    icon: GiBrain,
+    slogan: "Automated Editing",
+    heading: "Seamless and Smart",
+    text: "Our AI-powered editor automatically cuts, trims, and enhances your footage with precision, enabling you to focus on creativity without manual editing hassles.",
+    buttonIcon: SiGithubactions,
+    buttonText: "See in Action"
+  },
+  {
+    icon: MdVideoLibrary,
+    slogan: "Media Library",
+    heading: "Unlimited Resources",
+    text: "Explore our extensive media library, featuring diverse stock footage, high-quality music tracks, and professional effects to enhance your videos effortlessly.",
+    buttonIcon: PiRocketLaunchBold,
+    buttonText: "Explore Now"
+  }
+];
+
+const features = [
+  { icon: FaRobot, name: "AI Smart Tools" },
+  { icon: FaCut, name: "Precise Trimming" },
+  { icon: FaVideo, name: "High-Quality Exports" },
+  { icon: GiFilmStrip, name: "Advanced Filters" }
+];
+
+
+/*** Pricing section ***/
+
+###  Plan2  ###
+
+name="startup"
+slogan="Perfect for small teams"
+option1='10GB storage'
+option2='Multi-track editing'
+option3='Motion graphics'
+option4='Team projects'
+buttonIcon={FaRegSquare}
+
+###  Plan3  ###
+
+name="company"
+slogan="Best for businesses"
+option1='100GB storage'
+option2='Advanced analytics'
+option3='Custom branding'
+option4='24/7 support'
+buttonIcon={PiHexagonBold}
+
+
+/*** FAQ section ***/
+
+const faqs = [
+  {
+    title: "What is an AI video editor?",
+    answer: "An AI video editor uses artificial intelligence to automate and enhance video editing processes, making it easier and faster to create professional-quality videos."
+  },
+  {
+    title: "How does AI improve video editing?",
+    answer: "AI can automate repetitive tasks, enhance video quality, provide smart editing suggestions, and use machine learning to understand and apply optimal edits based on the content."
+  },
+  {
+    title: "Can AI video editors edit videos automatically?",
+    answer: "Yes, AI video editors can automatically trim, cut, and arrange video clips, apply transitions, and even add music based on the content and style preferences set by the user."
+  },
+  {
+    title: "Is AI video editing suitable for beginners?",
+    answer: "Absolutely! AI video editors are designed to be user-friendly, making it easier for beginners to create high-quality videos without needing extensive editing skills."
+  },
+  {
+    title: "Can I customize the edits made by the AI?",
+    answer: "Yes, most AI video editors allow users to manually adjust and customize the edits made by the AI to match their specific preferences and vision."
+  },
+  {
+    title: "What types of videos can I edit with an AI video editor?",
+    answer: "AI video editors can be used to edit a wide range of videos, including vlogs, tutorials, promotional videos, social media content, and more."
+  },
+  {
+    title: "How fast can an AI video editor process a video?",
+    answer: "The speed of processing depends on the length and complexity of the video, but AI video editors generally process videos much faster than traditional methods."
+  },
+  {
+    title: "Do AI video editors support multiple video formats?",
+    answer: "Yes, most AI video editors support a wide range of video formats, allowing you to import and export videos in the format that best suits your needs."
+  },
+  {
+    title: "Are there any privacy concerns with AI video editors?",
+    answer: "It's important to use AI video editors from reputable providers that ensure your data and content are secure and not misused. Always check the privacy policy of the service you are using."
+  },
+  {
+    title: "Do AI video editors offer templates and presets?",
+    answer: "Yes, many AI video editors come with a variety of templates and presets that can help you quickly create professional-looking videos with minimal effort."
+  }
+];
+
+
+/*** Reviews section ***/
+
+const reviews = [
+  {
+    name: "John Doe",
+    photoUrl: "/reviews/rev1.jpg",
+    company: "Tech Innovators Inc.",
+    review: "This AI video editor is a game-changer! It made editing our promotional videos so much easier and faster."
+  },
+  {
+    name: "Jane Smith",
+    photoUrl: "/reviews/rev2.jpg",
+    company: "Creative Studios",
+    review: "I love how user-friendly the AI video editor is. It’s perfect for beginners and professionals alike."
+  },
+  {
+    name: "Emily Johnson",
+    photoUrl: "/reviews/rev3.jpg",
+    company: "Marketing Gurus",
+    review: "The automated editing features saved us a ton of time. The final product was polished and professional."
+  },
+  {
+    name: "Michael Brown",
+    photoUrl: "/reviews/rev4.jpg",
+    company: "Content Creators LLC",
+    review: "The AI suggestions were spot on and really helped improve the quality of our videos. Highly recommend!"
+  },
+  {
+    name: "David Wilson",
+    photoUrl: "/reviews/rev5.jpg",
+    company: "Digital Media Experts",
+    review: "This AI video editor has become an essential tool for our team. It’s efficient and easy to use."
+  },
+  {
+    name: "Sarah Davis",
+    photoUrl: "/reviews/rev6.jpg",
+    company: "Video Production House",
+    review: "The AI editor exceeded our expectations. The quality of our video content has significantly improved."
+  }
+];
 
 ```
 </details>
