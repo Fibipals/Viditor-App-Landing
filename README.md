@@ -257,43 +257,43 @@ buttonIcon={PiHexagonBold}
 
 const faqs = [
   {
-    title: "What is an AI video editor?",
+    question: "What is an AI video editor?",
     answer: "An AI video editor uses artificial intelligence to automate and enhance video editing processes, making it easier and faster to create professional-quality videos."
   },
   {
-    title: "How does AI improve video editing?",
+    question: "How does AI improve video editing?",
     answer: "AI can automate repetitive tasks, enhance video quality, provide smart editing suggestions, and use machine learning to understand and apply optimal edits based on the content."
   },
   {
-    title: "Can AI video editors edit videos automatically?",
+    question: "Can AI video editors edit videos automatically?",
     answer: "Yes, AI video editors can automatically trim, cut, and arrange video clips, apply transitions, and even add music based on the content and style preferences set by the user."
   },
   {
-    title: "Is AI video editing suitable for beginners?",
+    question: "Is AI video editing suitable for beginners?",
     answer: "Absolutely! AI video editors are designed to be user-friendly, making it easier for beginners to create high-quality videos without needing extensive editing skills."
   },
   {
-    title: "Can I customize the edits made by the AI?",
+    question: "Can I customize the edits made by the AI?",
     answer: "Yes, most AI video editors allow users to manually adjust and customize the edits made by the AI to match their specific preferences and vision."
   },
   {
-    title: "What types of videos can I edit with an AI video editor?",
+    question: "What types of videos can I edit with an AI video editor?",
     answer: "AI video editors can be used to edit a wide range of videos, including vlogs, tutorials, promotional videos, social media content, and more."
   },
   {
-    title: "How fast can an AI video editor process a video?",
+    question: "How fast can an AI video editor process a video?",
     answer: "The speed of processing depends on the length and complexity of the video, but AI video editors generally process videos much faster than traditional methods."
   },
   {
-    title: "Do AI video editors support multiple video formats?",
+    question: "Do AI video editors support multiple video formats?",
     answer: "Yes, most AI video editors support a wide range of video formats, allowing you to import and export videos in the format that best suits your needs."
   },
   {
-    title: "Are there any privacy concerns with AI video editors?",
+    question: "Are there any privacy concerns with AI video editors?",
     answer: "It's important to use AI video editors from reputable providers that ensure your data and content are secure and not misused. Always check the privacy policy of the service you are using."
   },
   {
-    title: "Do AI video editors offer templates and presets?",
+    question: "Do AI video editors offer templates and presets?",
     answer: "Yes, many AI video editors come with a variety of templates and presets that can help you quickly create professional-looking videos with minimal effort."
   }
 ];

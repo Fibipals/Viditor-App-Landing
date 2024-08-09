@@ -14,10 +14,13 @@ const Pricing = () => {
 
   return (
     <div className='px-4 lg:px-16 pt-28 mt-8 relative' id='pricing'>
+      
       <div className='absolute inset-0 z-0'>
         <PricingSvg />
       </div>
+
       <h2 className='h2 text-center w-80 md:w-96 mx-auto relative z-10'>Flexible pricing<br/> for teams of all sizes</h2>
+
       <div className='w-80 h-14 grid grid-cols-2 p-1 mx-auto mt-12 mb-24 border-2 border-blue-950 rounded-xl relative z-10'>
         <div
           className={`flex-center uppercase font-semibold text-xs cursor-pointer ${
@@ -36,6 +39,7 @@ const Pricing = () => {
           Annual
         </div>
       </div>
+
       <div className='w-fit flex flex-col md:flex-row items-center gap-y-28 mx-auto'>
         <div className='px-12 py-6 md:px-6 lg:px-12  border-2 border-blue-950 rounded-3xl md:border-r-0 md:rounded-r-none z-10'>
           <Plan
